@@ -107,3 +107,6 @@ QuantLibAddin/Docs/doxywarnings.txt
 QuantLibXL/Docs/*.chm
 QuantLibXL/Docs/doxywarnings.txt
 
+build
+.vscode
+

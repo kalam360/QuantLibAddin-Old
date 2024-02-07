@@ -11,7 +11,7 @@ import re
 QLXL = "QuantLibXL"
 VERSION = "1.21.0"
 VERSION_ = "1_21_0"
-VC_VERSION = "v142"
+VC_VERSION = "v143"
 QLXL_VERSION = QLXL + "-" + VERSION
 ROOT_DIR = QLXL_VERSION + "\\"
 
